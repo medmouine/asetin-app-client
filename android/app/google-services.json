@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "110991109056",
+    "firebase_url": "https://asetin-app.firebaseio.com",
+    "project_id": "asetin-app",
+    "storage_bucket": "asetin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110991109056:android:a9c99335f350eda8",
+        "android_client_info": {
+          "package_name": "con.asetin.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110991109056-d0bbookk4pulqc1o8gtii51vq0vkn7kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEhoNufBWWwmJ7G0zFM-KmLpX6O789nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110991109056-d0bbookk4pulqc1o8gtii51vq0vkn7kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "110991109056-s3nceaf55tlf5qpk33tms01ses5c2q0f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asetin.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
