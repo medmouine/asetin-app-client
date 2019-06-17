@@ -15,7 +15,9 @@
   "dependencies": {
     "react": "16.8.3",
     "react-native": "0.59.3",
-    "react-native-firebase": "^5.4.0"
+    "react-native-elements": "^1.1.0",
+    "react-native-firebase": "^5.4.0",
+    "react-native-vector-icons": "^6.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.3",
@@ -25,6 +27,9 @@
     "fs-extra": "^7.0.1",
     "jest": "^24.7.1",
     "metro-react-native-babel-preset": "^0.53.1",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-router-flux": "^4.0.6",
     "react-redux": "^7.1.0",
     "react-test-renderer": "16.8.3",
     "redux": "^4.0.1",
